@@ -2,7 +2,7 @@ using SamuraiApp;
 
 namespace SamuraiAppTest;
 
-[TestClass]s
+[TestClass]
 public class ArmaTests
 {
     [TestMethod]
